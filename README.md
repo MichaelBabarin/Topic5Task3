@@ -1,3 +1,3 @@
 # Это Миша
 
-![Миша](Desktop\avatars\Michael Strider.jpg)
+![Миша](Desktop/avatars/Michael Strider.jpg)
